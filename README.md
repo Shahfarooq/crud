@@ -1,0 +1,1 @@
+go to domain:/api/user
